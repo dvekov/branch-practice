@@ -1,2 +1,3 @@
-branch-practice!!!
-a repo for branch practice in softMuni
+# branch-practice!!!
+
+a repo for branch practice
